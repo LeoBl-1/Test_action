@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://leobl-1.github.io/Test-action
+theme:
+  name: material
