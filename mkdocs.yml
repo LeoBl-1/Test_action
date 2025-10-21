@@ -1,7 +1,8 @@
 site_name: My Docs
-site_url: https://leobl-1.github.io/Test-action
+site_url: https://leobl-1.github.io/Test-action/
+repo_name: LeoBl-1/Test_action
+repo_url: https://github.com/LeoBl-1/Test_action
 theme:
   name: material
   icon:
-    repo_url: https://github.com/LeoBl-1/Test_action
     repo: fontawesome/brands/git-alt
